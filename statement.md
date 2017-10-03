@@ -155,26 +155,8 @@ public class Main {
       ls.print();
       ls.insertNth(25, 2);
       ls.print();
-      ls.deleteNth(3);
-      ls.print();
   }
 }
-```
-```java runnable
-// { autofold
-public class Main {
-
-public static void main(String[] args) {
-// }
-
-String message = "Hello World!";
-System.out.println(message);
-
-//{ autofold
-}
-
-}
-//}
 ```
 
 Original post can find it [here](http://mydevgeek.com/linked-list-insertion-deletion-nth-position/)

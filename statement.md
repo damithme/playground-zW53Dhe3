@@ -58,7 +58,7 @@ class Node {
     int data;
     Node nextNode;
 }
-public class LinkedList {
+class LinkedList {
 
     private Node head;
 
